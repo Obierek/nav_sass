@@ -8,4 +8,14 @@ $fonts: ("Roboto Bold": "roboto-bold-webfont", "Roboto Thin": "roboto-light-webf
 
 
 
-$slider-height: 18.75 !default;
+//$slider-height: 18.75 !default;
+
+
+$grid-breakpoints: (
+        xs: 0,
+        sm:576px,
+        md:768px,
+        lg: 992px,
+        xl:1200px,
+        xxl:1400px
+);
